@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestingProject.COEN6761.MainTest
--------------------------------------------------------------------------------
-Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.158 s - in TestingProject.COEN6761.MainTest
