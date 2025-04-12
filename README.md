@@ -1,6 +1,9 @@
+QA Testing: RobotController Application
+Task 3: Black-box and White-box Testing
+Task 4: Dev Team's Response and Regression Testing
 
-- **Black-box and white-box tests** for Grad1 robot control application (Task 3).
-- **QA test report**.
+
+- **QA test report**
 - The **Dev response and regression testing** is handled in a **separate repository**, and that repo is linked in this one (for Task 4).
 
 ---
@@ -12,7 +15,7 @@ This repository documents the Quality Assurance (QA) activities performed on ano
 
 As a QA team, we conducted black-box and white-box testing using comprehensive coverage criteria. The developer team's changes and regression testing were tracked separately and are referenced below.
 
-🧪 QA Testing Objectives (Task 3)
+**##🧪 QA Testing Objectives (Task 3)**
 We tested another team’s application using the following white-box techniques:
 
 ✅ Statement Coverage
@@ -45,23 +48,6 @@ robotcontroller-qa/
 └── reports/
 ```
 
----
-
-## 🔍 Task 3: QA Testing (Week 10)
-### ✅ Deliverables
-
-- Developed and executed the following tests on the developer team's application:
-  - **Statement coverage**
-  - **Decision coverage**
-  - **Condition coverage**
-  - **Multiple condition coverage**
-  - **Mutation testing** on the `move()` method
-  - **Data flow testing** on the `drawFloor()` method
-- QA Report includes:
-  - Source code of all test cases
-  - Screenshots of execution results
-  - Summary of coverage metrics
-  - Comments and suggestions to Dev team
 
 ### 📌 Code Coverage Thresholds
 
@@ -101,14 +87,13 @@ mvn org.pitest:pitest-maven:mutationCoverage
 
 ---
 
-## 🔄 Task 4: Dev Team’s Response & Final Presentation (Week 12)
+## 🔄 Task 4: Dev Team’s Response
 
 - The **Dev team reviewed our QA report** and implemented the necessary changes.
 - They **performed regression testing** and validated improvements.
 - Regression testing and updated code are available in their repository.
 
 ---
-
 ## 📎 Resources
 - 🧪 Dev Repo with Task 4 Fixes: [GitHub]((https://github.com/Vraj-2011/COEN-6761/tree/main))
 
